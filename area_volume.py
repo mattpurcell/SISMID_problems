@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 radius = input("What's the radius: ")
 
 pi = 3.14
